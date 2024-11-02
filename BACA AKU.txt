@@ -1,2 +1,2 @@
 untuk bagian 'main' ada file TugasPBO-077 merupakan uplaod via intellij
-untuk mengakses bagian yang tercommit and push via intellij bsa di ases melalui 'master' karena ter push ke sana
+untuk mengakses bagian yang tercommit and push via intellij bIsa di aKses melalui 'master' karena ter push ke sana
